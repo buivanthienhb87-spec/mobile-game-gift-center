@@ -1,0 +1,10 @@
+[
+  {
+    "game": "Example Mobile Game",
+    "event": "Example Official Event",
+    "source_url": "https://example.com",
+    "region": "global",
+    "expires_at": null,
+    "reviewed_at": "2026-06-16"
+  }
+]
