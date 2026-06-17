@@ -14,5 +14,29 @@
     "region": "sea",
     "reviewed_at": "2026-06-16",
     "expires_at": "2026-12-31"
+  },
+  {
+    "game": "Example Battle Royale",
+    "event": "Season Launch Rewards",
+    "source_url": "https://example.com/season",
+    "region": "global",
+    "reviewed_at": "2026-06-16",
+    "expires_at": null
+  },
+  {
+    "game": "Example Puzzle Game",
+    "event": "Daily Check-in Guide",
+    "source_url": "https://example.com/daily",
+    "region": "global",
+    "reviewed_at": "2026-06-16",
+    "expires_at": null
+  },
+  {
+    "game": "Example Card Game",
+    "event": "Collaboration Event",
+    "source_url": "https://example.com/collab",
+    "region": "jp",
+    "reviewed_at": "2026-06-16",
+    "expires_at": "2026-08-01"
   }
 ]
