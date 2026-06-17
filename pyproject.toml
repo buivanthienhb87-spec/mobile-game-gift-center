@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mobile-game-gift-center"
+version = "0.1.0"
+description = "Official mobile game reward guide verification and event documentation toolkit."
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Community Maintainers"}]
+keywords = ["mobile games", "official rewards", "event guides"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
