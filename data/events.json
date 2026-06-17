@@ -1,10 +1,18 @@
 [
   {
-    "game": "Example Mobile Game",
-    "event": "Example Official Event",
-    "source_url": "https://example.com",
+    "game": "Example Mobile RPG",
+    "event": "Official Login Event",
+    "source_url": "https://example.com/event",
     "region": "global",
-    "expires_at": null,
-    "reviewed_at": "2026-06-16"
+    "reviewed_at": "2026-06-16",
+    "expires_at": null
+  },
+  {
+    "game": "Example Strategy Mobile",
+    "event": "Anniversary Notice",
+    "source_url": "https://example.com/anniversary",
+    "region": "sea",
+    "reviewed_at": "2026-06-16",
+    "expires_at": "2026-12-31"
   }
 ]
