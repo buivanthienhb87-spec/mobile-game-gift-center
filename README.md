@@ -1,4 +1,11 @@
 # Mobile Game Gift Center
+## Resource Portals
+
+Quick access to external event and resource portals tracked by this project:
+
+- [0467hgj.com](https://0467hgj.com)
+- [18wenku.com](https://18wenku.com)
+
 
 Mobile Game Gift Center is a documentation hub for tracking **official mobile game reward guides, redemption instructions, event calendars, platform-specific help articles, and verification notes**. The project emphasizes verified sources and responsible guidance rather than unsupported claims about free currency or account manipulation.
 
